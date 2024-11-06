@@ -146,10 +146,10 @@
 <h3 align="center"><samp>Achievements</samp></h3>
 <div align="center">
   <ul>
-    <li>🏆 Participated in NASA Space Apps Challenge</li>
-    <li>🚀 Built a CNC machine for precision hardware development</li>
-    <li>🌐 Created "CosmicCrafters" project</li>
-    <li>🌱 Founder of the educational science kit company, <strong>Mecha Tesaract</strong></li>
+    <li>🏆 Participated in NASA Space Apps Challenge 2024</li>
+    <li>🚀 Built a Device called agrotech for researching agriculture </li>
+    <li>🌐 Working on a mars rover project</li>
+    
   </ul>
 </div>
 
