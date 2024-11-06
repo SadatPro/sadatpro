@@ -34,6 +34,7 @@
     </tr>
   </table>
 </div>
+
 <div align="center">
   <a href="https://flowcv.com/resume/cl5msmkqa3" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20CV-009688?style=for-the-badge&logo=resume&logoColor=white" alt="View My CV">
@@ -42,6 +43,17 @@
     <img src="https://img.shields.io/badge/Visit%20My%20Blog-007ACC?style=for-the-badge&logo=blog&logoColor=white" alt="Visit My Blog">
   </a>
 </div>
+
+<h3 align="center"><samp>Achievements</samp></h3>
+<div align="center">
+  <ul>
+    <li>🏆 Participated in NASA Space Apps Challenge 2024</li>
+    <li>🚀 Built a Device called agrotech for researching agriculture </li>
+    <li>🌐 Working on a mars rover project</li>
+    
+  </ul>
+</div>
+
 
 <h3 align="center"><samp>Skills and Tools</samp></h3>
 <div align="center">
@@ -149,16 +161,6 @@
       </td>
     </tr>
   </table>
-</div>
-
-<h3 align="center"><samp>Achievements</samp></h3>
-<div align="center">
-  <ul>
-    <li>🏆 Participated in NASA Space Apps Challenge 2024</li>
-    <li>🚀 Built a Device called agrotech for researching agriculture </li>
-    <li>🌐 Working on a mars rover project</li>
-    
-  </ul>
 </div>
 
 <h2 align="left">My GitHub Stats</h2>
