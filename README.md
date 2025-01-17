@@ -68,8 +68,8 @@
         <br>Dart
       </td>
       <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45" />
-        <br>Firebase
+        <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="45" height="45" />
+        <br>PHP
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="45" height="45" />
@@ -84,8 +84,8 @@
         <br>MySQL
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=clion" alt="CLion" width="45" height="45" />
-        <br>CLion
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="45" height="45" />
+        <br>Tailwind CSS
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="45" height="45" />
@@ -98,12 +98,12 @@
         <br>IntelliJ IDEA
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="45" height="45" />
-        <br>HTML5
+        <img src="https://skillicons.dev/icons?i=django" alt="Django" width="45" height="45" />
+        <br>Django
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="45" height="45" />
-        <br>CSS
+        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="45" height="45" />
+        <br>PostgreSQL
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=java" alt="Java" width="45" height="45" />
@@ -122,8 +122,8 @@
         <br>Blender
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" width="45" height="45" />
-        <br>PyCharm
+        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="45" height="45" />
+        <br>Bootstrap
       </td>
     </tr>
     <tr>
@@ -156,7 +156,8 @@
         <br>Ubuntu
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=windows" alt
+                <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="45" height="45" />
         <br>Windows
       </td>
     </tr>
