@@ -50,83 +50,78 @@
     <li>🏆 Participated in NASA Space Apps Challenge 2024</li>
     <li>🚀 Built a Device called agrotech for researching agriculture </li>
     <li>🌐 Working on a mars rover project</li>
-    
   </ul>
 </div>
-
 
 <h3 align="center"><samp>Skills and Tools</samp></h3>
 <div align="center">
   <table>
     <tr>
+      <!-- Programming Languages -->
       <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="45" height="45" />
-        <br>Flutter
-      </td>
-      <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="45" height="45" />
-        <br>Dart
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="45" height="45" />
-        <br>PHP
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="45" height="45" />
-        <br>C++
-      </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/sugith10/images/main/technologies/riverpod.png" alt="Riverpod" width="45" height="45" />
-        <br>Riverpod
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="45" height="45" />
-        <br>MySQL
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="45" height="45" />
-        <br>Tailwind CSS
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="45" height="45" />
-        <br>Figma
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="45" height="45" />
-        <br>IntelliJ IDEA
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=django" alt="Django" width="45" height="45" />
-        <br>Django
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="45" height="45" />
-        <br>PostgreSQL
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="45" height="45" />
+        <br>Python
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=java" alt="Java" width="45" height="45" />
         <br>Java
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="45" height="45" />
-        <br>Python
+        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="45" height="45" />
+        <br>C++
+      </td>
+      <td align="center" width="100">
+        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="45" height="45" />
+        <br>Dart
+      </td>
+    </tr>
+    <tr>
+      <!-- Frameworks -->
+      <td align="center" width="100">
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="45" height="45" />
+        <br>Flutter
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="45" height="45" />
+        <br>PHP
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=django" alt="Django" width="45" height="45" />
+        <br>Django
+      </td>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/sugith10/images/main/technologies/riverpod.png" alt="Riverpod" width="45" height="45" />
+        <br>Riverpod
+      </td>
+    </tr>
+    <tr>
+      <!-- Databases -->
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="45" height="45" />
+        <br>PostgreSQL
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="45" height="45" />
+        <br>MySQL
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="45" height="45" />
         <br>MongoDB
       </td>
+    </tr>
+    <tr> <!-- Other Tools -->
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=blender" alt="Blender" width="45" height="45" />
-        <br>Blender
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="45" height="45" />
+        <br>Tailwind CSS
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="45" height="45" />
         <br>Bootstrap
       </td>
-    </tr>
-    <tr>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="45" height="45" />
+        <br>Figma
+      </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" width="45" height="45" />
         <br>Anaconda
@@ -136,17 +131,15 @@
         <br>Git
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45" />
-        <br>GitHub
+        <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="45" height="45" />
+        <br>Windows
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="45" height="45" />
         <br>Android Studio
       </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="45" height="45" />
-        <br>VSCode
-      </td>
+    </tr>
+    <tr>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" width="45" height="45" />
         <br>Kali Linux
@@ -156,9 +149,24 @@
         <br>Ubuntu
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=windows" alt
-                <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45" />
+        <br>GitHub
+      </td>
+         <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="45" height="45" />
+        <br>IntelliJ IDEA
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="45" height="45" />
+        <br>VSCode
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="45" height="45" />
         <br>Windows
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="45" height="45" />
+        <br>Android Studio
       </td>
     </tr>
   </table>
