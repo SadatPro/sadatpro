@@ -130,9 +130,9 @@
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="45" height="45" />
         <br>Git
       </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="45" height="45" />
-        <br>Windows
+       <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45" />
+        <br>GitHub
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="45" height="45" />
@@ -148,9 +148,9 @@
         <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="45" height="45" />
         <br>Ubuntu
       </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45" />
-        <br>GitHub
+       <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="45" height="45" />
+        <br>Windows
       </td>
          <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="45" height="45" />
@@ -159,10 +159,6 @@
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="45" height="45" />
         <br>VSCode
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="45" height="45" />
-        <br>Windows
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="45" height="45" />
