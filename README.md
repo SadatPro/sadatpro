@@ -70,9 +70,21 @@
         <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="45" height="45" />
         <br>C++
       </td>
+        <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=c" alt="C" width="45" height="45" />
+        <br>C
+      </td>
       <td align="center" width="100">
         <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="45" height="45" />
         <br>Dart
+      </td>
+         <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=js" alt="js" width="45" height="45" />
+        <br>js
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="45" height="45" />
+        <br>arduino
       </td>
     </tr>
     <tr>
@@ -89,9 +101,21 @@
         <img src="https://skillicons.dev/icons?i=django" alt="Django" width="45" height="45" />
         <br>Django
       </td>
+       <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=html" alt="html" width="45" height="45" />
+        <br>html
+      </td>
       <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/sugith10/images/main/technologies/riverpod.png" alt="Riverpod" width="45" height="45" />
-        <br>Riverpod
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="45" height="45" />
+        <br>Tailwind CSS
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="45" height="45" />
+        <br>Bootstrap
+      </td>
+       <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=css" alt="css" width="45" height="45" />
+        <br>css
       </td>
     </tr>
     <tr>
@@ -108,19 +132,39 @@
         <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="45" height="45" />
         <br>MongoDB
       </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="45" height="45" />
+        <br>sqlite
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=replit" alt="replit" width="45" height="45" />
+        <br>replit
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=powershell" alt="powershell" width="45" height="45" />
+        <br>powershell
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=stackoverflow" alt="stackoverflow" width="45" height="45" />
+        <br>stackoverflow
+      </td>
     </tr>
     <tr> <!-- Other Tools -->
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="45" height="45" />
-        <br>Tailwind CSS
+        <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="45" height="45" />
+        <br>blender
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="45" height="45" />
-        <br>Bootstrap
+        <img src="https://skillicons.dev/icons?i=ai" alt="ai" width="45" height="45" />
+        <br>ai
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="45" height="45" />
         <br>Figma
+      </td>
+        <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=xd" alt="xd" width="45" height="45" />
+        <br>xd
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" width="45" height="45" />
@@ -133,10 +177,6 @@
        <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45" />
         <br>GitHub
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="45" height="45" />
-        <br>Android Studio
       </td>
     </tr>
     <tr>
@@ -159,6 +199,10 @@
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="45" height="45" />
         <br>VSCode
+      </td>
+        <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=pycharm" alt="pycharm" width="45" height="45" />
+        <br>pycharm
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="45" height="45" />
