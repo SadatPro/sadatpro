@@ -141,12 +141,12 @@
         <br>replit
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=powershell" alt="powershell" width="45" height="45" />
-        <br>powershell
+        <img src="https://skillicons.dev/icons?i=scikitlearn" alt="Scikit-learn" width="45" height="45" />
+       <br>Scikit-learn
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=stackoverflow" alt="stackoverflow" width="45" height="45" />
-        <br>stackoverflow
+       <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="45" height="45" />
+       <br>TensorFlow
       </td>
     </tr>
     <tr> <!-- Other Tools -->
@@ -189,8 +189,8 @@
         <br>Ubuntu
       </td>
        <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="45" height="45" />
-        <br>Windows
+        <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="45" height="45" />
+       <br>Postman
       </td>
          <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="45" height="45" />
