@@ -39,7 +39,7 @@
   <a href="https://flowcv.com/resume/cl5msmkqa3" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20CV-009688?style=for-the-badge&logo=resume&logoColor=white" alt="View My CV">
   </a>
-  <a href="https://sadatmahmud.blog.com" target="_blank">
+  <a href="https://sadatmahmud.blogspot.com" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Blog-007ACC?style=for-the-badge&logo=blog&logoColor=white" alt="Visit My Blog">
   </a>
 </div>
